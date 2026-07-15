@@ -1,2 +1,3 @@
 # Cognitia
-Cognitia AI-powered learning ecosystem
+
+Cognitia is an AI-powered learning ecosystem for learners, educators, schools and organisations.
